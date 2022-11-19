@@ -1,6 +1,7 @@
 import "./App.css";
 import { getMovieList, searchMovie } from "./api";
 import { useEffect, useState } from "react";
+require("dotenv").config();
 
 const imgURL = process.env.REACT_APP_BASEIMGURL;
 

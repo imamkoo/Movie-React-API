@@ -1,4 +1,5 @@
 import axios from "axios";
+require("dotenv").config();
 
 const baseURL = process.env.REACT_APP_BASEURL;
 const apiKey = process.env.REACT_APP_APIKEY;
