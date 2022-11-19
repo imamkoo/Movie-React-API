@@ -1,4 +1,3 @@
-REACT_APP_BASEURL=https://api.themoviedb.org/3
-REACT_APP_BASEIMGURL=https://image.tmdb.org/t/p
-REACT_APP_APIKEY=5b0fb76c505a083ffe7e936d5f73e0e6
+
 node_modules
+.env
